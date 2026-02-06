@@ -34,25 +34,22 @@ As a Senior Software Developer at the Ethiopian Artificial Intelligence Institut
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianleul&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Adrian Leul's GitHub contribution statistics showing total commits, pull requests, and issues" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianleul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Adrian Leul's most used programming languages chart" height="165">
+
+| Statistic           | Value       |
+|---------------------|------------|
+| Total Repositories  |  24         |
+| Total Contributions |  25         |
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianleul&theme=radical&hide_border=true" alt="Adrian Leul's GitHub contribution streak statistics showing current and longest streaks" width="600">
-</div>
-
----
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrianleul&theme=radical&no-frame=true&row=1&column=7" alt="Adrian Leul's GitHub achievement trophies and milestones">
+
+![Pull Shark](https://img.shields.io/badge/Trophy-Commit%20Champ-blue)
+![Quickdraw](https://img.shields.io/badge/Trophy-Fork%20Master-orange)
 </div>
 
----
 
 ## 📫 Connect With Me
 
