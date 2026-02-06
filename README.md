@@ -8,6 +8,7 @@
 ## 🚀 About Me
 
 I'm a passionate software developer who loves building innovative solutions and learning new technologies. I enjoy tackling complex problems and creating impactful projects.
+As a Senior Software Developer at the Ethiopian Artificial Intelligence Institute, working since July 2024 on large-scale government systems such as the MESOB project, where I design and deliver secure, high-performance, and scalable applications using MVC architecture, domain-driven design, RBAC and permission-based rendering, and reactive, responsive design, with a strong emphasis on code reusability, system flexibility, performance optimization, search engine optimization, and enterprise-grade security practices.
 
 - 🔭 I'm currently working on various government projects
 - 🌱 I'm constantly learning and exploring new technologies
@@ -21,24 +22,12 @@ I'm a passionate software developer who loves building innovative solutions and 
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=js,py,java,ts,go)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
+[![Frameworks](https://skillicons.dev/icons?i=html,css,express,nodejs,django,spring,gradle,maven,mysql,mongodb,postgres,elasticsearch,kafka,redis)](https://skillicons.dev)
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=postman,git,linux,nginx,docker,)](https://skillicons.dev)
 
 </div>
 
