@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Adrian Leul</h1>
+  <h1>👋 Hi, I'm Adrian Lulayehu</h1>
   <p><em>Software Developer | Tech Enthusiast | Problem Solver</em></p>
 </div>
 
@@ -25,9 +25,9 @@ As a Senior Software Developer at the Ethiopian Artificial Intelligence Institut
 [![Languages](https://skillicons.dev/icons?i=js,py,java,ts,go)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=html,css,express,nodejs,django,spring,gradle,maven,mysql,mongodb,postgres,elasticsearch,kafka,redis)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,express,nodejs,django,spring,gradle,maven,mysql,mongodb,postgres,redis)](https://skillicons.dev)
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=postman,git,linux,nginx,docker,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,git,linux,nginx,docker)](https://skillicons.dev)
 
 </div>
 
