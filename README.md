@@ -47,12 +47,12 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianleul&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianleul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianleul&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Adrian Leul's GitHub contribution statistics showing total commits, pull requests, and issues" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianleul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Adrian Leul's most used programming languages chart" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianleul&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianleul&theme=radical&hide_border=true" alt="Adrian Leul's GitHub contribution streak statistics showing current and longest streaks" width="600">
 </div>
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrianleul&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=adrianleul&theme=radical&no-frame=true&row=1&column=7" alt="Adrian Leul's GitHub achievement trophies and milestones">
 </div>
 
 ---
@@ -79,7 +79,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrianleul&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=adrianleul&style=flat-square&color=blue" alt="Profile view counter badge">
   
   ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
