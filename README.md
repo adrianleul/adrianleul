@@ -9,7 +9,7 @@
 
 I'm a passionate software developer who loves building innovative solutions and learning new technologies. I enjoy tackling complex problems and creating impactful projects.
 
-- 🔭 I'm currently working on various open-source projects
+- 🔭 I'm currently working on various government projects
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 I believe in writing clean, maintainable code
 - 🎯 Goal: Contribute to meaningful projects that make a difference
@@ -70,9 +70,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianleul/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrianleul)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adrianleul.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://adrianleul.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrianleul9@gmai.com)
 
 </div>
 
@@ -85,22 +83,6 @@ I'm a passionate software developer who loves building innovative solutions and 
   
   <sub>⭐️ From [adrianleul](https://github.com/adrianleul)</sub>
 </div>
-# Hi, This is Adrian
-
-Welcome to my GitHub profile! I'm a Software Developer based in Ethiopia. I like solving problems with code, learn new technologies, and enjoy collaborating on open-source projects.
-
-- I’m currently working on: **Government Systems that includes QMS, HRMS, MES, DMS, Web Portal and so on in private repositories**
-- 🌱 I’m currently learning: **Minio, Keycloak**
-- 📫 How to reach me: [adrianleul9@gmail.com]
-
----
-
-## Skills
-
-- **Languages:** Java, JavaScript, Python, TypeScript, Go
-- **Frameworks / Tools:** React, Node.js, Docker, Springboot
-- **Databases:** PostgreSQL, MySql, MongoDB
-- **Other:** Testing, CI/CD, DevOps
 
 ---
 
@@ -109,18 +91,3 @@ Welcome to my GitHub profile! I'm a Software Developer based in Ethiopia. I like
 - **MESOB** a one stop service center where many organizations provide different services. I've worked on development, testing, and deployment in various systems for the MESOB center.
 
 ---
-
-## How to connect
-
-- Email: adrianleul9@gmail.com
-- LinkedIn: https://linkedin.com/in/adrianleul
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianleul&show_icons=true&theme=tokyonight)
-
----
-
-Thanks for visiting
