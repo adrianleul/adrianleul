@@ -11,7 +11,7 @@
 
 I'm a passionate software developer who loves building innovative solutions and learning new technologies. I enjoy tackling complex problems and creating impactful projects.  
 
-As a Senior Software Developer at the Ethiopian Artificial Intelligence Institute (since July 2024), working on large-scale government systems such as the MESOB project, I design and deliver secure, high-performance, and scalable applications using MVC architecture, domain-driven design, RBAC and permission-based rendering, and reactive, responsive design — with strong emphasis on reusability, flexibility, performance optimization, SEO, and enterprise-grade security.
+As a Senior Software Developer at the Ethiopian Artificial Intelligence Institute, working on LLM training, working on large-scale government systems such as the MESOB project, I design and deliver secure, high-performance, and scalable applications using MVC architecture, domain-driven design, RBAC and permission-based rendering, and reactive, responsive design — with strong emphasis on reusability, flexibility, performance optimization, SEO, and enterprise-grade security.
 
 🔭 I'm currently working on various government projects  
 🌱 I'm constantly learning and exploring new technologies  
