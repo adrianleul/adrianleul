@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Adrian Lulayehu</h1>
-  <p><em>Software Developer | Tech Enthusiast | Problem Solver</em></p>
+  <p><em>Software Developer</em></p>
 </div>
 
 ---
